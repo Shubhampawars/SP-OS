@@ -5,10 +5,10 @@
 Name:-Shubham Pawar 
 Email:-shubhampawar0921@gmail.com
 
-github link:-Shubhampawars/SP-OS
+github link:-https://github.com/Shubhampawars/SP-OS
 
 
 website link made by me :-https://shubhampawars.github.io/SP-OS/
 
 
-Puter.com link which is the website i have used to upgarde that:- puter.com
+Puter.com link which is the website i have used to upgarde that:- https://puter.com/app/code
